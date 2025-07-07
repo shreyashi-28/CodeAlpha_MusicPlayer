@@ -1,7 +1,5 @@
 # CodeAlpha Music Player  
 
-![Music Player Demo](music_player.JPG) *(Add screenshot)*  
-
 A sleek music player web app developed for **CodeAlpha Frontend Internship (Task 4)**.  
 
 ## Features  
@@ -14,7 +12,10 @@ A sleek music player web app developed for **CodeAlpha Frontend Internship (Task
 ## Technologies  
 - **HTML5** (Audio Element)  
 - **CSS3** (Flexbox, Animations)  
-- **JavaScript** (Audio API, DOM Manipulation)  
+- **JavaScript** (Audio API, DOM Manipulation)
+
+## Screenshot  
+![Music Player Demo](music_player.JPG) 
 
 ## 🚀 Live Demo  
 [Try it on GitHub Pages](https://shreyashi-28.github.io/CodeAlpha_MusicPlayer)  
