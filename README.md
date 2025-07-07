@@ -17,9 +17,6 @@ A sleek music player web app developed for **CodeAlpha Frontend Internship (Task
 ## Screenshot  
 ![Music Player Demo](music_player.JPG) 
 
-## 🚀 Live Demo  
-[Try it on GitHub Pages](https://shreyashi-28.github.io/CodeAlpha_MusicPlayer)  
-
 ## Project Structure  
 
 - CodeAlpha_MusicPlayer
